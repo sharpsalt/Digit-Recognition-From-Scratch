@@ -1,1 +1,1 @@
-# MNIST-Digit-Recognition-From-Scratch
+# Digit-Recognition-From-Scratch
